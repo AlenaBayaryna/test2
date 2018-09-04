@@ -1,0 +1,7 @@
+*/log/
+packages/
+UnitTestProject1/UnitTestProject1/bin/
+UnitTestProject1/UnitTestProject1/obj/
+*suo
+*user
+*sln
